@@ -1,0 +1,4 @@
+1、先在目录下运行npm install
+
+2、比如需要下载http://kitap.kz/index.php/catalog/audiobook/5205-olengder上面的mp3文件
+   运行node index.js http://kitap.kz/index.php/catalog/audiobook/5205-olengder等待进程结束即可
